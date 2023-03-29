@@ -1,11 +1,34 @@
 {
-  "posts": [
+  "authors": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 1001,
+      "name": "Ernest Hemingway",
+      "photo": "https://raw.githubusercontent.com/anatol-a/anatol-json-server/main/photos/ernest-hemingway.jpeg",
+      "short_bio": "Ernest Miller Hemingway was born on July 21, 1899, in Cicero (now in Oak Park), Illinois. He served in World War I and worked in journalism before publishing his story collection In Our Time. He was renowned for novels like The Sun Also Rises, A Farewell to Arms, For Whom the Bell Tolls and The Old Man and the Sea, which won the Pulitzer Prize in 1953. In 1954, Hemingway won the Nobel Prize. He committed suicide on July 2, 1961, in Ketchum, Idaho."
+    },
+    {
+      "id": 1002,
+      "name": "J.K. Rowling",
+      "photo": "https://raw.githubusercontent.com/anatol-a/anatol-json-server/main/photos/rowling%20.jpg",
+      "short_bio": "J.K. Rowling, is a British author and screenwriter best known for her seven-book Harry Potter children's book series. The series has sold more than 500 million copies and was adapted into a blockbuster film franchise."
+    },
+    {
+      "id": 1003,
+      "name": "Oscar Wilde",
+      "photo": "https://raw.githubusercontent.com/anatol-a/anatol-json-server/main/photos/oscar-wilde.jpeg",
+      "short_bio": "Author, playwright and poet Oscar Wilde was a popular literary figure in late Victorian England. After graduating from Oxford University, he lectured as a poet, art critic and a leading proponent of the principles of aestheticism. In 1891, he published The Picture of Dorian Gray, his only novel which was panned as immoral by Victorian critics, but is now considered one of his most notable works. As a dramatist, many of Wilde’s plays were well received including his satirical comedies Lady Windermere's Fan (1892), A Woman of No Importance (1893), An Ideal Husband (1895) and The Importance of Being Earnest (1895), his most famous play. Unconventional in his writing and life, Wilde’s affair with a young man led to his arrest on charges of 'gross indecency' in 1895. He was imprisoned for two years and died in poverty three years after his release at the age of 46."
+    },
+    {
+      "id": 1004,
+      "name": "Jules Verne",
+      "photo": "https://raw.githubusercontent.com/anatol-a/anatol-json-server/main/photos/jules-verne.jpg",
+      "short_bio": "Jules Verne hit his stride as a writer after meeting publisher Pierre-Jules Hetzel, who nurtured many of the works that would comprise the author's Voyages Extraordinaires. Often referred to as the 'Father of Science Fiction', Verne wrote books about a variety of innovations and technological advancements years before they were practical realities. Although he died in 1905, his works continued to be published well after his death, and he became the second most translated author in the world."
+    },
+    {
+      "id": 1005,
+      "name": "F. Scott Fitzgerald",
+      "photo": "https://raw.githubusercontent.com/anatol-a/anatol-json-server/main/photos/fitzgerald.jpg",
+      "short_bio": "Scott Fitzgerald was a short story writer and novelist considered one of the pre-eminent authors in the history of American literature due almost entirely to the enormous posthumous success of his third book, The Great Gatsby. Perhaps the quintessential American novel, as well as a definitive social history of the Jazz Age, The Great Gatsby has become required reading for virtually every American high school student and has had a transportive effect on generation after generation of readers. At the age of 24, the success of his first novel, This Side of Paradise, made Fitzgerald famous. One week later, he married the woman he loved and his muse, Zelda Sayre. However by the end of the 1920s Fitzgerald descended into drinking, and Zelda had a mental breakdown. Following the unsuccessful Tender Is the Night, Fitzgerald moved to Hollywood and became a scriptwriter. He died of a heart attack in 1940, at age 44, his final novel only half completed."
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
