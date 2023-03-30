@@ -18,7 +18,8 @@
           "name": "Death In The Afternoon",
           "ISBN": 9780099285021
         }
-      ]
+      ],
+      "favorite": true
     },
     {
       "id": 1002,
@@ -38,7 +39,8 @@
           "name": "Harry Potter and the Half-Blood Prince",
           "ISBN": 9781408855706
         }
-      ]
+      ],
+      "favorite": false
     },
     {
       "id": 1003,
@@ -50,7 +52,8 @@
           "name": "The Picture of Dorian Gray",
           "ISBN": 9780099511144
         }
-      ]
+      ],
+      "favorite": true
     },
     {
       "id": 1004,
@@ -66,7 +69,8 @@
           "name": "Twenty Thousand Leagues under the Seas",
           "ISBN": 9780198818649
         }
-      ]
+      ],
+      "favorite": false
     },
     {
       "id": 1005,
@@ -82,7 +86,8 @@
           "name": "The Great Gatsby",
           "ISBN": 9780141182636
         }
-      ]
+      ],
+      "favorite": true
     }
   ]
 }
